@@ -35,7 +35,7 @@ const Landing = () => {
         <div className="nav-links">
           <Link to="/">Home</Link>
           <Link to="/strength">Strength</Link>
-          <Link to="/diet">Diet</Link>
+          <Link to="/dashboard">Diet</Link>
           <Link to="/about">About</Link>
         </div>
         <div className="begin-button">
